@@ -7,7 +7,7 @@ A cat themed ToDo list! Add tasks, mark them as done, and delete them. Your task
 - Tasks persist across sessions
 - Cat-themed and a playful design using schoolbell font.
 
-## Technologies:
+## Languages used:
 - HTML, Tailwind CSS, JavaScript
 
 ## Future Ideas:
