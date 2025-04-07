@@ -1,6 +1,6 @@
 # Meowina's ToDo List
 
-A cat themed ToDo list! Add tasks, mark them as done, and delete them. Your tasks are saved in `localStorage`.
+A cat themed ToDo list! Add tasks, mark them as done, and delete them. Your tasks are saved in localStorage.
 
 ## Features:
 - Add, mark, and delete tasks
